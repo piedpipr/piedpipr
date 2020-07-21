@@ -1,4 +1,4 @@
-### Hi there 👋
+## Let's make the codes and the planet a little cleaner than yesterday 👋
 
 <!--
 **piedpipr/piedpipr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
