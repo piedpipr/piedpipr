@@ -1,5 +1,5 @@
 ## Let's make the codes and the planet a little cleaner than yesterday 🌱
-![piedpipr's github stats](https://github-readme-stats.vercel.app/api?username=piedpipr&count_private=true)
+<!--  ![piedpipr's github stats](https://github-readme-stats.vercel.app/api?username=piedpipr&count_private=true) -->
 
 
 <!--
